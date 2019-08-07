@@ -6,7 +6,7 @@ class Shoe
   def initialize(brand)
     @brand = brand
   end
-  def cobble(condition)
+  def cobble()
     self.condition = new 
     puts "the show has been reparired"
   end
