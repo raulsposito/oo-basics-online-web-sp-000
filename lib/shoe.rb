@@ -7,7 +7,7 @@ class Shoe
   end
   def cobble(condition)
     puts "the show has been reparired"
-    @condition = new 
+    condition = new 
   end
 
 end
