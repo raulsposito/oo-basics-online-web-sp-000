@@ -6,9 +6,8 @@ class Shoe
     @brand = brand
   end
   def cobble(condition)
-    self.
+    self.condition = new 
     puts "the show has been reparired"
-    condition = new 
   end
 
 end
